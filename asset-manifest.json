@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/walkman/static/css/main.25bd5a3a.chunk.css",
+    "main.js": "/walkman/static/js/main.895dbeb5.chunk.js",
+    "main.js.map": "/walkman/static/js/main.895dbeb5.chunk.js.map",
+    "runtime-main.js": "/walkman/static/js/runtime-main.36f56703.js",
+    "runtime-main.js.map": "/walkman/static/js/runtime-main.36f56703.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/walkman/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f9ab0b45.chunk.js": "/walkman/static/js/2.f9ab0b45.chunk.js",
+    "static/js/2.f9ab0b45.chunk.js.map": "/walkman/static/js/2.f9ab0b45.chunk.js.map",
+    "index.html": "/walkman/index.html",
+    "precache-manifest.748bb2ea68538f7329c65ba16edb77aa.js": "/walkman/precache-manifest.748bb2ea68538f7329c65ba16edb77aa.js",
+    "service-worker.js": "/walkman/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/walkman/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.25bd5a3a.chunk.css.map": "/walkman/static/css/main.25bd5a3a.chunk.css.map",
+    "static/js/2.f9ab0b45.chunk.js.LICENSE.txt": "/walkman/static/js/2.f9ab0b45.chunk.js.LICENSE.txt",
+    "static/media/facebook-logo.svg": "/walkman/static/media/facebook-logo.1b519cda.svg",
+    "static/media/google-logo.svg": "/walkman/static/media/google-logo.c6b14713.svg",
+    "static/media/index.css": "/walkman/static/media/gotham_medium.77171d8f.ttf",
+    "static/media/launcher-window-background@2x.png": "/walkman/static/media/launcher-window-background@2x.d71c39e9.png",
+    "static/media/sound-wave.svg": "/walkman/static/media/sound-wave.4dd30c47.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36f56703.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f9ab0b45.chunk.js",
+    "static/css/main.25bd5a3a.chunk.css",
+    "static/js/main.895dbeb5.chunk.js"
+  ]
+}
